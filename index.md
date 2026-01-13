@@ -14,7 +14,7 @@ body{
     font-family:Arial,sans-serif;
 }
 
-/* ---------- MENU ---------- */
+/* ---------- MENU --------- */
 #menu{
     position:absolute;
     inset:0;
