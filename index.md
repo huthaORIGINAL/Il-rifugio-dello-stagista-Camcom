@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="it">
 <head>
 <meta charset="UTF-8">
@@ -160,7 +159,7 @@ canvas{
 
 <!-- CHAT -->
 <div id="chat">
-    <h2>Per quelli che vengono dopo</h2>
+    <h2>Per quelli che verranno</h2>
     <div id="messages"></div>
     <input id="chatName" placeholder="Nome">
     <input id="chatText" placeholder="Messaggio">
